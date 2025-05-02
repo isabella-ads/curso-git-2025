@@ -3,3 +3,6 @@ ela copia o arquivo/ramifica
 
 - primeiros comandos
 - segundos comandos
+
+#comandos mais genericos
+- comandos estranhos
