@@ -1,3 +1,5 @@
 ls
 cd
 pwd
+cat
+rm
