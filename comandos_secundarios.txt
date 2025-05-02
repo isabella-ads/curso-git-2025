@@ -1,5 +1,2 @@
 esse arquivo contem comandos de branch secundarios
 ela copia o arquivo/ramifica
-
-- primeiros comandos
-- segundos comandos
