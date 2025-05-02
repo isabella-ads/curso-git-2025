@@ -4,4 +4,10 @@ Um curso para iniciantes aprenderem a trabalhar com versionamento de código e r
 
 Ao final do curso, vamos trabalhar com GitFlow e Visual Studio Code.
 
-Confira tudo o que temos no YouTube. É gratuito! 
+Confira tudo o que temos no YouTube. É gratuito!
+
+---
+
+Participantes:
+
+- Téo
