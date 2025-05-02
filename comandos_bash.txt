@@ -3,3 +3,4 @@ cd
 pwd
 cat
 rm
+rm -rf
